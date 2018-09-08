@@ -29,17 +29,17 @@ Data Sets to be Used
     >https://openweathermap.org/api  
     
 Rough Breakdown of Tasks  
-  Josh:  
+  >Josh:  
     •Team Lead  
     •Which airline has the most delays/cancellations?  
     •Which airport has the most delays/cancellations?  
-  Prabhdeep:  
+  >Prabhdeep:  
     •What is the most common reason for a delay/cancellation?  
     •How often is a flight cancelled as opposed to delayed?  
-  Cameron:  
+  >Cameron:  
     •Does the day of the week affect how often a flight is delayed or cancelled?  
     •Does the distance of the flight affect how often a flight is delayed or cancelled?  
-  Bhavan:  
+  >Bhavan:  
     •Does the season/month affect how often a flight is delayed or cancelled?  
     •Does the weather affect how often a flight is delayed or cancelled?  
  
