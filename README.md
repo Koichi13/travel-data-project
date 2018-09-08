@@ -4,7 +4,7 @@ Project Title
   
 Team Members  
   >Josh Barclay  
-  >Prabhdeep Kadur  
+  >Prabhdeep Kaur  
   >Cameron Daniel  
   >Bhavan Bagri  
   
