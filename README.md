@@ -1,3 +1,7 @@
+# Resources
+Resouce files are available at https://www.kaggle.com/usdot/flight-delays#flights.csv
+  >Place the 3 csv files in the folder flight-delays
+
 # Proposal
 Project Title  
   >Domestic Flight Delay Correlations  
